@@ -28,6 +28,7 @@ public class Apex extends AppCompatActivity {
 
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_apex);
+
         webView = (WebView) findViewById(R.id.apex_web);
         webView.setWebViewClient(new WebViewClient());
         webView.loadUrl("https://liquipedia.net/apexlegends/Main_Page");

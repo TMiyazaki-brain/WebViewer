@@ -31,7 +31,7 @@ public class MainActivity extends AppCompatActivity {
 
         webView = (WebView) findViewById(R.id.youtube_web);
         webView.setWebViewClient(new WebViewClient());
-        webView.loadUrl("https://www.youtube.com");
+        webView.loadUrl("http://www.youtube.com");
 
         WebSettings webSettings = webView.getSettings();
         webSettings.setJavaScriptEnabled(true);
