@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/youtube"
+        android:title="YouTube"
+        android:icon="@drawable/ic_youtube"/>
+
+    <item
+        android:id="@+id/pubg"
+        android:title="PUBG"
+        android:icon="@drawable/ic_pubg"/>
+
+    <item
+        android:id="@+id/apex"
+        android:title="APEX"
+        android:icon="@drawable/ic_apex"/>
+
+
+</menu>
