@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">WebViewer</string>
+    <string name="image_chooser">File Chooser</string>
 </resources>
